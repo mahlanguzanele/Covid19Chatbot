@@ -25,7 +25,7 @@ Ensure you have the following dependencies installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/COVID-19-ChatBot.git
+    [git clone https://github.com/your_username/COVID-19-ChatBot.git](https://github.com/mahlanguzanele/Covid19Chatbot.git)
     ```
 
 2. Navigate to the project directory:
